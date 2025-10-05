@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Merge Sort/MS/MS.iml" filepath="$PROJECT_DIR$/../../Merge Sort/MS/MS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Quick Sort/QS/QS.iml" filepath="$PROJECT_DIR$/../../Quick Sort/QS/QS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Queen Chessboard/QueenC/QueenC.iml" filepath="$PROJECT_DIR$/../../Queen Chessboard/QueenC/QueenC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recur.iml" filepath="$PROJECT_DIR$/Recur.iml" />
+    </modules>
+  </component>
+</project>
